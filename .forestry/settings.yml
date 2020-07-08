@@ -4,14 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: content/_index.md
-  label: 首页配置
 - type: directory
-  path: static
-  label: 静态文件
-  create: all
+  path: content
+  label: 首页配置
+  create: documents
   match: "**/*"
+  new_doc_ext: ".md"
 - type: directory
   path: "."
   label: config
