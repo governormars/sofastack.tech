@@ -8,8 +8,8 @@ sections:
   path: content/_index.md
   label: 首页配置
 - type: directory
-  path: ''
-  label: 主题静态文件目录
+  path: static
+  label: 静态文件
   create: all
   match: "**/*"
 - type: directory
