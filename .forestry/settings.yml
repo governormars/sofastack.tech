@@ -12,9 +12,9 @@ sections:
 - type: directory
   path: ''
   label: Hugo配置文件
-  create: documents
-  match: "**/*"
-  new_doc_ext: toml
+  create: all
+  match: "*.toml"
+  new_doc_ext: ".md"
 - type: directory
   path: "."
   label: config
