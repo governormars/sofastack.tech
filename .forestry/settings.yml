@@ -4,9 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: ''
+- type: directory
+  path: "."
   label: config
+  create: none
+  match: config.toml
 - type: directory
   path: content/zh
   label: Zh
