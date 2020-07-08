@@ -7,8 +7,9 @@ sections:
 - type: directory
   path: "."
   label: config
-  create: none
-  match: config.toml
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".toml"
 - type: directory
   path: content/zh
   label: Zh
