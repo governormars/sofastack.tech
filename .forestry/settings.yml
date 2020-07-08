@@ -14,7 +14,7 @@ sections:
   label: Hugo配置文件
   create: documents
   match: "**/*"
-  exclude: ".toml"
+  new_doc_ext: ".toml"
 - type: directory
   path: content
   label: 首页配置
