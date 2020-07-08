@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: data
+  label: Hugo元数据
+  create: all
+  match: "**/*"
+- type: directory
   path: ''
   label: Hugo配置文件
   create: documents
