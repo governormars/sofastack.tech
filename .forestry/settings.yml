@@ -6,29 +6,23 @@ webhook_url:
 sections:
 - type: directory
   path: data
-  label: Hugo元数据
+  label: 元数据
   create: all
   match: "**/*"
 - type: directory
   path: ''
-  label: Hugo配置文件
+  label: 总体配置
   create: all
   match: "*.toml"
-  new_doc_ext: ".md"
-- type: directory
-  path: "."
-  label: config
-  create: documents
-  match: "**/*"
-  new_doc_ext: toml
+  new_doc_ext: md
 - type: directory
   path: content/zh
-  label: Zh
+  label: 中文文档
   create: all
   match: "**/*"
 - type: directory
   path: content/en
-  label: En
+  label: 英文文档
   create: all
   match: "**/*"
 upload_dir: static/img
