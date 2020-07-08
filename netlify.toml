@@ -1,5 +1,5 @@
 [build]
-  publish = "exampleSite/public"
+  publish = "public"
   command = "./scripts/build-site.sh"
   
 [build.environment]
