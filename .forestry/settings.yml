@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: 主题静态文件目录
+  create: all
+  match: "**/*"
+- type: directory
   path: "."
   label: config
   create: documents
