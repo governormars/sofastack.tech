@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/_index.md
+  label: 首页配置
+  match: "**/*"
 - type: directory
   path: ''
   label: 主题静态文件目录
