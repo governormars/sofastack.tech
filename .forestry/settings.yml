@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ''
   label: config
-  match: "**/*"
 - type: directory
   path: content/zh
   label: Zh
