@@ -5,11 +5,17 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: Hugo配置文件
+  create: documents
+  match: "**/*"
+  exclude: ".toml"
+- type: directory
   path: content
   label: 首页配置
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: "."
   label: config
