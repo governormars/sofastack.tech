@@ -20,12 +20,12 @@ weight = 20
 identifier = "projects"
 name = "项目"
 url = "/projects/"
-weight = 1
+weight = "2"
 [[languages.zh.menu.main]]
 identifier = "guides"
 name = "指南"
 url = "/guides/"
-weight = 2
+weight = "1"
 [[languages.zh.menu.main]]
 identifier = "blog"
 name = "博客"
@@ -44,11 +44,6 @@ weight = 6
 [[languages.zh.menu.main]]
 identifier = "community"
 name = "社区"
-url = "/community/"
-weight = 5
-[[languages.zh.menu.main]]
-identifier = "community"
-name = "Community"
 url = "/community/"
 weight = 5
 [[menu.main]]
