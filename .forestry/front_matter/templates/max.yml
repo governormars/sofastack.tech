@@ -2,3 +2,5 @@
 label: Max
 hide_body: false
 fields: []
+pages:
+- content/zh/documents/docs.md
