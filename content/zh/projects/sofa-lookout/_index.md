@@ -1,7 +1,7 @@
 ---
-title: "SOFALookout"
-description: "SOFALookout 是一个利用多维度的 metrics 对目标系统进行度量和监控的项目。"
-github: "https://github.com/sofastack/sofa-lookout"
+title: "Graphee-SGX"
+description: "基于Intel SGX技术并可以运行未经修改程序的开源library OS（阿里云安全团队合作贡献golang支持）"
+github: "https://github.com/oscarlab/graphene"
 level: "main"
 weight: 4
 icon: "/img/icons/sofalookout.png"

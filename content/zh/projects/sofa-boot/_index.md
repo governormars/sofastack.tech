@@ -1,6 +1,6 @@
 ---
-title: "SOFABoot"
-description: "SOFABoot 基于 Spring Boot 的研发框架，在其基础上提供了诸如 Readiness Check，类隔离，日志空间隔离，Bean 异步初始化等能力。"
+title: "Inclavare"
+description: "是Enclave一词的拉丁语词源，读音是[ˈinklɑveə] (因克拉威尔)。"
 github: "https://github.com/sofastack/sofa-boot"
 weight: 1
 level: "main"

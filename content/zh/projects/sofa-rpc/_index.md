@@ -1,7 +1,7 @@
 ---
-title: "SOFARPC"
-description: "SOFARPC 是一个高可扩展性、高性能、生产级的 Java RPC 框架。"
-github: "https://github.com/sofastack/sofa-rpc"
+title: "Occlum"
+description: "由蚂蚁安全计算团队自研的基于Intel SGX技术并实现了内存安全的多进程library OS（rune的默认enclave runtime）"
+github: "https://github.com/occlum/occlum"
 level: "main"
 weight: 2
 icon: "/img/icons/sofarpc.png"
