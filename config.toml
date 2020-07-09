@@ -20,37 +20,27 @@ weight = 20
 identifier = "documents"
 name = "文档"
 url = "/documents/"
-weight = "0"
-[[languages.zh.menu.main]]
-identifier = "blog"
-name = "博客"
-url = "/blog/"
-weight = 3
-[[languages.zh.menu.main]]
-identifier = "projects"
-name = "项目"
-url = "/projects/"
 weight = "1"
-[[languages.zh.menu.main]]
-identifier = "guides"
-name = "指南"
-url = "/guides/"
-weight = "2"
-[[languages.zh.menu.main]]
-identifier = "activities"
-name = "活动"
-url = "/activities/"
-weight = 4
-[[languages.zh.menu.main]]
-identifier = "awesome"
-name = "Awesome SOFA"
-url = "/awesome/"
-weight = 6
 [[languages.zh.menu.main]]
 identifier = "community"
 name = "社区"
 url = "/community/"
-weight = 5
+weight = "2"
+[[languages.zh.menu.main]]
+identifier = "projects"
+name = "项目"
+url = "/projects/"
+weight = "3"
+[[languages.zh.menu.main]]
+identifier = "blog"
+name = "博客"
+url = "/blog/"
+weight = "4"
+[[languages.zh.menu.main]]
+identifier = "activities"
+name = "活动"
+url = "/activities/"
+weight = "5"
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
