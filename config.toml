@@ -19,7 +19,7 @@ weight = 20
 [[languages.zh.menu.main]]
 identifier = "documents"
 name = "文档"
-url = "/projects/"
+url = "/documents/"
 weight = "0"
 [[languages.zh.menu.main]]
 identifier = "blog"
