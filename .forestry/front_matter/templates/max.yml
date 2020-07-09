@@ -1,6 +1,6 @@
 ---
 label: Max
-hide_body: false
+hide_body: true
 fields: []
 pages:
 - content/zh/documents/_index.md
