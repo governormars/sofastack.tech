@@ -27,13 +27,26 @@
 	]
 
 [[links]]
-	category = "蚂蚁金服开源项目"
+	category = "斗拱社区其他开源项目"
 	link_arr = [
-		["Ant Design", 'https://ant.design/'],
-		["Egg ", 'https://eggjs.org/'],
-		["SQLFlow", 'https://sqlflow.org'],
+		["Alibaba Cloud Linux", 'https://ant.design/'],
+		["Drangonwell", 'https://eggjs.org/'],
+		["diagnose-tools", 'https://sqlflow.org'],
 		["更多", 'https://tech.antfin.com/open-source'],
 	]
+
+[[links]]
+        category = "CNCF推进"
+        link_arr = [
+                ["testtest", 'https://ant.design/'],
+        ]
+
+[[links]]
+        category = "社区建设"
+        link_arr = [
+                ["文档", 'https://ant.design/'],
+        ]       
+       
 
 [[qrcode]]
 	img = "img/qrcode/qrcode_1.png"
