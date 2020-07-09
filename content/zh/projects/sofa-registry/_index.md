@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "SOFARegistry"
-description: "SOFARegistry 是一个生产级、高时效、高可用的服务注册中心。"
-github: "https://github.com/sofastack/sofa-registry"
+title: "sgx-device-plugin"
+description: "由阿里云容器服务团队和蚂蚁金服安全计算团队针对Intel SGX联合开发的Kubernetes Device Plugin"
+github: "https://github.com/AliyunContainerService/sgx-device-plugin"
 level: "main"
 weight: 5
 icon: "/img/icons/sofaregistry.png"
