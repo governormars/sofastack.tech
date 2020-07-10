@@ -1,14 +1,16 @@
 ---
-title: "浅谈机密计算-发表在Inclavare Containers开源之际"
-author: "xxx"
-authorlink: "https://github.com/SteNicholas"
-description: "浅谈机密计算-发表在Inclavare Containers开源之际"
-categories: "dougong"
-tags: ["机密计算","dougong","剖析 | SOFAJRaft 实现原理"]
-date: 2020-07-09T15:00:00+08:00
-cover: "https://cdn.nlark.com/yuque/0/2019/png/226702/1562833089057-7d279c27-aeb6-475f-b3c1-407dca499338.png"
----
+title: 浅谈机密计算-发表在Inclavare Containers开源之际
+author: 撒旦
+authorlink: https://github.com/SteNicholas
+description: 浅谈机密计算-发表在Inclavare Containers开源之际
+categories: []
+tags:
+- 机密计算
+- dougong
+date: 2020-07-10T07:00:00+00:00
+cover: https://cdn.nlark.com/yuque/0/2019/png/226702/1562833089057-7d279c27-aeb6-475f-b3c1-407dca499338.png
 
+---
 > **SOFA**Stack
 > **S**calable **O**pen **F**inancial  **A**rchitecture Stack
 > 是蚂蚁金服自主研发的金融级分布式架构，包含了构建金融级云原生架构所需的各个组件，是在金融场景里锤炼出来的最佳实践。
