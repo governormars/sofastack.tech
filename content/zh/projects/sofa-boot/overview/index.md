@@ -48,7 +48,7 @@ SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spr
         </pluginRepository>
     </pluginRepositories>
 </profile>
-```
+```ghfh
 
 目前 SOFABoot 最新版本为 3.1.0，基于 Spring Boot 2.1.0.RELEASE, 支持 JDK11。
 
